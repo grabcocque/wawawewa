@@ -35,3 +35,4 @@ claude-flow
 hive-mind-prompt-*.txt
 .claude/
 CLAUDE.md
+.progress
