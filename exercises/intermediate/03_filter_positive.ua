@@ -21,7 +21,7 @@
 # Hint 3: Use ▽ (keep) with the mask from >0 - the pattern is: ▽>0
 
 # Instructions:
-# Replace ___ with the correct Uiua code to filter positive numbers
+# Replace Todo with the correct Uiua code to filter positive numbers
 
 Todo ← ⍤"TODO: Fill in your solution"0
 

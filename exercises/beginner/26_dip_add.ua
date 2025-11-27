@@ -12,7 +12,7 @@
 # Expected: [3 14]
 
 # Instructions:
-# Replace ___ with the correct Uiua code to double the second number using ⊙
+# Replace Todo with the correct Uiua code to double the second number using ⊙
 
 Todo ← ⍤"TODO: Fill in your solution"0
 

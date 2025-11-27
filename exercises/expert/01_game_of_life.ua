@@ -6,29 +6,29 @@
 # Description:
 # Implement ONE step of Conway's Game of Life.
 # Given an n×m grid of 0s (dead) and 1s (alive), compute the next generation.
-#
+# 
 # Rules:
 # 1. Any live cell with 2 or 3 live neighbors survives
 # 2. Any dead cell with exactly 3 live neighbors becomes alive
 # 3. All other cells die or stay dead
-#
+# 
 # The grid wraps around (toroidal topology) - edges connect to opposite edges.
 
 # Example:
 # Input:  [[0 1 0]
 #          [0 0 1]
 #          [1 1 1]]
-#
+# 
 # Expected: [[0 0 0]
 #            [1 0 1]
 #            [0 1 1]]
-#
+# 
 # (This is the "glider" pattern - a famous Game of Life oscillator)
 
 # The Challenge:
 # You must count neighbors for each cell (8 directions, wrapping),
 # then apply the rules to determine the next state.
-#
+# 
 # Key techniques you'll need:
 # - ↻ (rotate) to shift the grid in each direction
 # - Combining 8 rotated versions to count neighbors
@@ -36,7 +36,7 @@
 # - The pattern: живая клетка = (neighbors = 3) OR (alive AND neighbors = 2)
 
 # Instructions:
-# Replace ___ with a function that takes a 2D grid and returns the next generation
+# Replace Todo with a function that takes a 2D grid and returns the next generation
 
 Todo ← ⍤"TODO: Fill in your solution"0
 

@@ -12,7 +12,7 @@
 # Expected: 2
 
 # Instructions:
-# Replace ___ with the correct Uiua code
+# Replace Todo with the correct Uiua code
 
 Todo ← ⍤"TODO: Fill in your solution"0
 

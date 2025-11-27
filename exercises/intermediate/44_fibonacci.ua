@@ -18,7 +18,7 @@
 # Hint 4: Pattern involves ⊂ to append, +, and managing the last two values
 
 # Instructions:
-# Replace ___ with the correct Uiua code
+# Replace Todo with the correct Uiua code
 # Solution should take n and return first n Fibonacci numbers
 
 Todo ← ⍤"TODO: Fill in your solution"0

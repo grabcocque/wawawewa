@@ -17,7 +17,7 @@
 # Hint 3: Use ⊞× to multiply each element from the first array by each from the second
 
 # Instructions:
-# Replace ___ with the correct Uiua code to create a multiplication table
+# Replace Todo with the correct Uiua code to create a multiplication table
 
 Todo ← ⍤"TODO: Fill in your solution"0
 

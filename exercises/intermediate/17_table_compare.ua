@@ -17,7 +17,7 @@
 # Hint 3: Use ⊞< to check if each row element is less than each column element
 
 # Instructions:
-# Replace ___ with the correct Uiua code to create a comparison matrix
+# Replace Todo with the correct Uiua code to create a comparison matrix
 
 Todo ← ⍤"TODO: Fill in your solution"0
 

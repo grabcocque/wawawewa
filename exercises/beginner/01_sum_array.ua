@@ -12,7 +12,7 @@
 # Expected: 15
 
 # Instructions:
-# Replace ___ with the correct Uiua reduce operation to sum the array
+# Replace Todo with the correct Uiua reduce operation to sum the array
 
 Todo ← ⍤"TODO: Fill in your solution"0
 

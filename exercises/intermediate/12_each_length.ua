@@ -17,7 +17,7 @@
 # Hint 3: Combine them as ∵⧻ to get the length of each array
 
 # Instructions:
-# Replace ___ with the correct Uiua code to get length of each array
+# Replace Todo with the correct Uiua code to get length of each array
 
 Todo ← ⍤"TODO: Fill in your solution"0
 

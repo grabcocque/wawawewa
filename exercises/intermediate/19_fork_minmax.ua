@@ -17,7 +17,7 @@
 # Hint 3: Use ⊃(/↧|/↥) to apply reduce-min and reduce-max simultaneously
 
 # Instructions:
-# Replace ___ with the correct Uiua code to get [min max] from an array
+# Replace Todo with the correct Uiua code to get [min max] from an array
 
 Todo ← ⍤"TODO: Fill in your solution"0
 

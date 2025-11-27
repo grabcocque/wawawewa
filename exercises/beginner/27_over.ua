@@ -12,7 +12,7 @@
 # Expected: [4 7 4]
 
 # Instructions:
-# Replace ___ with the correct Uiua code to copy the second item to top
+# Replace Todo with the correct Uiua code to copy the second item to top
 
 Todo ← ⍤"TODO: Fill in your solution"0
 

@@ -17,7 +17,7 @@
 # Hint 3: Just use ⟜+ and it will add the number to itself
 
 # Instructions:
-# Replace ___ with the correct Uiua code to double a number using ⟜
+# Replace Todo with the correct Uiua code to double a number using ⟜
 
 Todo ← ⍤"TODO: Fill in your solution"0
 

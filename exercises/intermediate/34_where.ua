@@ -16,7 +16,7 @@
 # Hint 3: Apply ⊚ (where) to the boolean array: ⊚>5
 
 # Instructions:
-# Replace ___ with the correct Uiua code to find indices where values > 5
+# Replace Todo with the correct Uiua code to find indices where values > 5
 
 Todo ← ⍤"TODO: Fill in your solution"0
 

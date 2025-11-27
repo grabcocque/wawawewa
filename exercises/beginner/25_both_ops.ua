@@ -12,7 +12,7 @@
 # Expected: [4 9]
 
 # Instructions:
-# Replace ___ with the correct Uiua code to square both numbers using ∩
+# Replace Todo with the correct Uiua code to square both numbers using ∩
 
 Todo ← ⍤"TODO: Fill in your solution"0
 

@@ -21,7 +21,7 @@
 # Hint 3: Reduce with /× to check if ALL characters are digits (all must be 1)
 
 # Instructions:
-# Replace ___ with the correct Uiua code
+# Replace Todo with the correct Uiua code
 
 Todo ← ⍤"TODO: Fill in your solution"0
 

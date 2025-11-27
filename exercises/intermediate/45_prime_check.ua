@@ -18,7 +18,7 @@
 # Hint 4: Pattern: +2⇡-1 gives range [2..n-1], check if all modulos are non-zero
 
 # Instructions:
-# Replace ___ with the correct Uiua code
+# Replace Todo with the correct Uiua code
 # Return 1 for prime, 0 for not prime
 
 Todo ← ⍤"TODO: Fill in your solution"0

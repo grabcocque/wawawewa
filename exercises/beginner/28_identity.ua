@@ -12,7 +12,7 @@
 # Expected: [10 11]
 
 # Instructions:
-# Replace ___ with the correct Uiua code using ⊃∘(+1) to preserve and increment
+# Replace Todo with the correct Uiua code using ⊃∘(+1) to preserve and increment
 
 Todo ← ⍤"TODO: Fill in your solution"0
 

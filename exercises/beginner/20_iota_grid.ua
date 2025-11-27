@@ -11,7 +11,7 @@
 # Expected: [[0 1 2] [3 4 5] [6 7 8]]
 
 # Instructions:
-# Replace ___ with the correct Uiua code to create an n×n grid
+# Replace Todo with the correct Uiua code to create an n×n grid
 
 Todo ← ⍤"TODO: Fill in your solution"0
 

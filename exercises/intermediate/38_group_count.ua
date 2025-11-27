@@ -16,7 +16,7 @@
 # Hint 3: Combine them as ⊕⧻ and pass the group labels
 
 # Instructions:
-# Replace ___ with the correct Uiua code to count per group
+# Replace Todo with the correct Uiua code to count per group
 
 Todo ← ⍤"TODO: Fill in your solution"0
 

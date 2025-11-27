@@ -11,7 +11,7 @@
 # Expected: [[1 2] [3 4]]
 
 # Instructions:
-# Replace ___ with the correct Uiua code to reshape into a 2×2 matrix
+# Replace Todo with the correct Uiua code to reshape into a 2×2 matrix
 
 Todo ← ⍤"TODO: Fill in your solution"0
 

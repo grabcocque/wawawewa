@@ -17,7 +17,7 @@
 # Hint 3: Use ⊏ indices array to select elements
 
 # Instructions:
-# Replace ___ with the correct Uiua code to select by indices
+# Replace Todo with the correct Uiua code to select by indices
 
 Todo ← ⍤"TODO: Fill in your solution"0
 

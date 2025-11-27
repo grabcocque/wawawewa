@@ -21,7 +21,7 @@
 # Hint 3: Since the function receives n first and array second, the solution is simply ↙
 
 # Instructions:
-# Replace ___ with the correct Uiua code to take first n elements
+# Replace Todo with the correct Uiua code to take first n elements
 # The function signature is: Solution n array
 
 Todo ← ⍤"TODO: Fill in your solution"0

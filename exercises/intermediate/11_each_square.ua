@@ -17,7 +17,7 @@
 # Hint 3: Use ∵(×.) to apply the squaring operation to each element
 
 # Instructions:
-# Replace ___ with the correct Uiua code to square each element
+# Replace Todo with the correct Uiua code to square each element
 
 Todo ← ⍤"TODO: Fill in your solution"0
 
