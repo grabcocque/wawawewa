@@ -1,0 +1,87 @@
+# Uiua Learning Progress
+# Mark exercises as done by changing [ ] to [x]
+
+# BEGINNER (28 exercises)
+[x] beginner/01_sum_array
+[ ] beginner/02_array_length
+[ ] beginner/03_reverse_array
+[ ] beginner/04_double_elements
+[ ] beginner/05_range_sum
+[ ] beginner/06_absolute_value
+[ ] beginner/07_negate_array
+[ ] beginner/08_modulo
+[ ] beginner/09_minimum
+[ ] beginner/10_count_greater
+[ ] beginner/11_all_positive
+[ ] beginner/12_any_zero
+[ ] beginner/13_floor_ceiling
+[ ] beginner/14_first_element
+[ ] beginner/15_last_element
+[ ] beginner/16_drop_first
+[ ] beginner/17_drop_last
+[ ] beginner/18_reshape
+[ ] beginner/19_flatten
+[ ] beginner/20_iota_grid
+[ ] beginner/21_repeat_element
+[ ] beginner/22_duplicate
+[ ] beginner/23_flip
+[ ] beginner/24_square
+[ ] beginner/25_both_ops
+[ ] beginner/26_dip_add
+[ ] beginner/27_over
+[ ] beginner/28_identity
+
+# INTERMEDIATE (48 exercises)
+[ ] intermediate/01_calculate_mean
+[ ] intermediate/02_cumulative_sum
+[ ] intermediate/03_filter_positive
+[ ] intermediate/04_matrix_transpose
+[ ] intermediate/05_first_n_elements
+[ ] intermediate/06_count_occurrences
+[ ] intermediate/07_find_maximum
+[ ] intermediate/08_is_palindrome
+[ ] intermediate/09_dot_product
+[ ] intermediate/10_remove_duplicates
+[ ] intermediate/11_each_square
+[ ] intermediate/12_each_length
+[ ] intermediate/13_rows_reverse
+[ ] intermediate/14_rows_sum
+[ ] intermediate/15_table_add
+[ ] intermediate/16_table_multiply
+[ ] intermediate/17_table_compare
+[ ] intermediate/18_outer_product
+[ ] intermediate/19_fork_minmax
+[ ] intermediate/20_fork_stats
+[ ] intermediate/21_bracket_apply
+[ ] intermediate/22_both_increment
+[ ] intermediate/23_on_preserve
+[ ] intermediate/24_by_pattern
+[ ] intermediate/25_fork_three
+[ ] intermediate/26_compose_forks
+[ ] intermediate/27_string_length
+[ ] intermediate/28_reverse_string
+[ ] intermediate/29_uppercase
+[ ] intermediate/30_split_string
+[ ] intermediate/31_join_strings
+[ ] intermediate/32_char_count
+[ ] intermediate/33_is_digit
+[ ] intermediate/34_where
+[ ] intermediate/35_classify
+[ ] intermediate/36_group_sum
+[ ] intermediate/37_partition_split
+[ ] intermediate/38_group_count
+[ ] intermediate/39_indices_of
+[ ] intermediate/40_select_indices
+[ ] intermediate/41_running_max
+[ ] intermediate/42_differences
+[ ] intermediate/43_rotate_array
+[ ] intermediate/44_fibonacci
+[ ] intermediate/45_prime_check
+[ ] intermediate/46_matrix_multiply
+[ ] intermediate/47_moving_average
+[ ] intermediate/48_histogram
+
+# EXPERT (3 exercises)
+[ ] expert/01_game_of_life
+[ ] expert/02_quicksort
+[ ] expert/03_parser_combinators

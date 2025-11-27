@@ -31,4 +31,5 @@ Solution ← Todo
 
 # Hint: The reduce modifier is / and you need to combine it with +
 
-&p "✓ All tests passed!"
+Happy ← "All tests passed successfully!"
+&p Happy
