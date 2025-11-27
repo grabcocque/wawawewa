@@ -17,7 +17,7 @@
 # Hint 3: Try ⊜□≠@, where the delimiter is @,
 
 # Instructions:
-# Replace ___ with the correct Uiua code
+# Replace Todo with the correct Uiua code
 # The function should take a delimiter character and a string
 
 Todo ← ⍤"TODO: Fill in your solution"0

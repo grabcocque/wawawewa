@@ -12,7 +12,7 @@
 # Expected: [5 4 3 2 1]
 
 # Instructions:
-# Replace ___ with the correct Uiua glyph to reverse the array
+# Replace Todo with the correct Uiua glyph to reverse the array
 
 Todo ← ⍤"TODO: Fill in your solution"0
 

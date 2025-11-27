@@ -18,7 +18,7 @@
 # Hint 4: Pattern involves ⍉ on second matrix, then ≡(≡(/+×)) or similar
 
 # Instructions:
-# Replace ___ with the correct Uiua code
+# Replace Todo with the correct Uiua code
 # Solution takes two matrices A and B
 
 Todo ← ⍤"TODO: Fill in your solution"0

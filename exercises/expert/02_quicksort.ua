@@ -5,7 +5,7 @@
 
 # Description:
 # Implement the quicksort algorithm in pure Uiua.
-#
+# 
 # Quicksort works by:
 # 1. If array has 0 or 1 elements, return it (base case)
 # 2. Pick a pivot (first element is fine)
@@ -22,7 +22,7 @@
 # - ⍥ (repeat) with a fixed number of iterations
 # - Or clever use of / (reduce) for divide-and-conquer
 # - Or use ↬ (do) for conditional recursion
-#
+# 
 # Key techniques you'll need:
 # - ⊢ (first) to get pivot
 # - ▽ (keep) with <, =, > to partition
@@ -37,7 +37,7 @@
 # Hint 5: Advanced - you might need ↬ (do) or creative use of ⍢ (undo)
 
 # Instructions:
-# Replace ___ with a function that sorts an array in ascending order
+# Replace Todo with a function that sorts an array in ascending order
 
 Todo ← ⍤"TODO: Fill in your solution"0
 

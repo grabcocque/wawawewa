@@ -17,7 +17,7 @@
 # Hint 3: Pass groups first, then values: ⊕/+ groups values
 
 # Instructions:
-# Replace ___ with the correct Uiua code to sum by group
+# Replace Todo with the correct Uiua code to sum by group
 
 Todo ← ⍤"TODO: Fill in your solution"0
 

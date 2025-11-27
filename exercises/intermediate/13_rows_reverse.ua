@@ -17,7 +17,7 @@
 # Hint 3: Combine them as ≡⇌ to reverse each row
 
 # Instructions:
-# Replace ___ with the correct Uiua code to reverse each row
+# Replace Todo with the correct Uiua code to reverse each row
 
 Todo ← ⍤"TODO: Fill in your solution"0
 

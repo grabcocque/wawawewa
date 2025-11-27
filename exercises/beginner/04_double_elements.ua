@@ -12,7 +12,7 @@
 # Expected: [2 4 6 8]
 
 # Instructions:
-# Replace ___ with the correct Uiua operation to double each element
+# Replace Todo with the correct Uiua operation to double each element
 # You'll need to use multiplication (×) with the number 2
 
 Todo ← ⍤"TODO: Fill in your solution"0

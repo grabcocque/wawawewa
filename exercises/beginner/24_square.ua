@@ -12,7 +12,7 @@
 # Expected: 16
 
 # Instructions:
-# Replace ___ with the correct Uiua code to square a number
+# Replace Todo with the correct Uiua code to square a number
 
 Todo ← ⍤"TODO: Fill in your solution"0
 

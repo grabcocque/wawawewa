@@ -11,7 +11,7 @@
 # Expected: [1 2 3 4]
 
 # Instructions:
-# Replace ___ with the correct Uiua code to flatten a 2D array
+# Replace Todo with the correct Uiua code to flatten a 2D array
 
 Todo ← ⍤"TODO: Fill in your solution"0
 

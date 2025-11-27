@@ -17,7 +17,7 @@
 # Hint 3: Use ∩(+1) to add 1 to both values
 
 # Instructions:
-# Replace ___ with the correct Uiua code to increment both values
+# Replace Todo with the correct Uiua code to increment both values
 
 Todo ← ⍤"TODO: Fill in your solution"0
 

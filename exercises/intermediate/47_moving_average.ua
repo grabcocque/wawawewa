@@ -18,7 +18,7 @@
 # Hint 4: Pattern: ≡(÷⧻.(/+)) ◫ n where n is window size
 
 # Instructions:
-# Replace ___ with the correct Uiua code
+# Replace Todo with the correct Uiua code
 # Solution takes window size n and array
 
 Todo ← ⍤"TODO: Fill in your solution"0

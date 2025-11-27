@@ -17,7 +17,7 @@
 # Hint 3: Use ≥@a and ≤@z to identify lowercase letters, then conditionally subtract 32
 
 # Instructions:
-# Replace ___ with the correct Uiua code
+# Replace Todo with the correct Uiua code
 
 Todo ← ⍤"TODO: Fill in your solution"0
 

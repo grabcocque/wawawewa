@@ -17,7 +17,7 @@
 # Hint 3: Apply ⊜∘ with the condition: ⊜∘≠0
 
 # Instructions:
-# Replace ___ with the correct Uiua code to split at zeros
+# Replace Todo with the correct Uiua code to split at zeros
 
 Todo ← ⍤"TODO: Fill in your solution"0
 

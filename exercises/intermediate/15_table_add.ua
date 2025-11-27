@@ -17,7 +17,7 @@
 # Hint 3: Use ⊞+ to add each element from the first array to each from the second
 
 # Instructions:
-# Replace ___ with the correct Uiua code to create an addition table
+# Replace Todo with the correct Uiua code to create an addition table
 
 Todo ← ⍤"TODO: Fill in your solution"0
 

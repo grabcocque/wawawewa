@@ -22,7 +22,7 @@
 # Hint 3: The solution is just \+ applied to the input array
 
 # Instructions:
-# Replace ___ with the correct Uiua code to compute cumulative sum
+# Replace Todo with the correct Uiua code to compute cumulative sum
 
 Todo ← ⍤"TODO: Fill in your solution"0
 

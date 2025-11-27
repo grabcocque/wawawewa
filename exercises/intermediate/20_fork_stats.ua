@@ -17,7 +17,7 @@
 # Hint 3: Use ÷⊃(/+|⧻) - fork gets sum and length, then divide divides them
 
 # Instructions:
-# Replace ___ with the correct Uiua code to compute the mean of an array
+# Replace Todo with the correct Uiua code to compute the mean of an array
 
 Todo ← ⍤"TODO: Fill in your solution"0
 

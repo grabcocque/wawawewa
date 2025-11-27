@@ -11,7 +11,7 @@
 # Expected: [1 2 3 4]
 
 # Instructions:
-# Replace ___ with the correct Uiua code to drop the last element
+# Replace Todo with the correct Uiua code to drop the last element
 
 Todo ← ⍤"TODO: Fill in your solution"0
 

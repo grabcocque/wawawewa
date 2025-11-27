@@ -17,7 +17,7 @@
 # Hint 3: Simply use ⊛ on the input array
 
 # Instructions:
-# Replace ___ with the correct Uiua code to classify elements
+# Replace Todo with the correct Uiua code to classify elements
 
 Todo ← ⍤"TODO: Fill in your solution"0
 

@@ -11,7 +11,7 @@
 # Expected: 5
 
 # Instructions:
-# Replace ___ with the correct Uiua code to get the last element
+# Replace Todo with the correct Uiua code to get the last element
 
 Todo ← ⍤"TODO: Fill in your solution"0
 

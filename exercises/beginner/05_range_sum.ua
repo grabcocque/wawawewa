@@ -12,7 +12,7 @@
 # Expected: 10 (because 0+1+2+3+4 = 10)
 
 # Instructions:
-# Replace ___ with the correct combination of range (⇡) and reduce-add (/+)
+# Replace Todo with the correct combination of range (⇡) and reduce-add (/+)
 # Remember: Uiua executes right-to-left, so think about the order!
 
 Todo ← ⍤"TODO: Fill in your solution"0

@@ -9,7 +9,7 @@
 # - Parentheses first (highest precedence)
 # - * next
 # - + and - last (lowest precedence, left-to-right)
-#
+# 
 # All numbers are single digits 0-9. No spaces in input.
 
 # Examples:
@@ -26,12 +26,12 @@
 # 2. Handle operator precedence correctly
 # 3. Handle parentheses (recursive descent)
 # 4. Process left-to-right for same-precedence operators
-#
+# 
 # Suggested approach:
 # - Write a tokenizer: string → array of tokens (numbers and operators)
 # - Write an evaluator that handles precedence
 # - For precedence: evaluate * first by scanning and reducing, then + and -
-#
+# 
 # Alternative approach:
 # - Convert to postfix notation (Shunting Yard), then evaluate
 # - This avoids explicit recursion for parentheses
@@ -50,7 +50,7 @@
 # Hint 5: Consider: can you reduce [...3 + 4...] → [...7...] repeatedly?
 
 # Instructions:
-# Replace ___ with a function that evaluates an arithmetic expression string
+# Replace Todo with a function that evaluates an arithmetic expression string
 
 Todo ← ⍤"TODO: Fill in your solution"0
 

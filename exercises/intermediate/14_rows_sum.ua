@@ -17,7 +17,7 @@
 # Hint 3: Combine them as ≡/+ to sum each row independently
 
 # Instructions:
-# Replace ___ with the correct Uiua code to sum each row
+# Replace Todo with the correct Uiua code to sum each row
 
 Todo ← ⍤"TODO: Fill in your solution"0
 

@@ -27,7 +27,7 @@
 # Hint 3: The solution is simply the ⍉ glyph applied to the input
 
 # Instructions:
-# Replace ___ with the correct Uiua code to transpose the matrix
+# Replace Todo with the correct Uiua code to transpose the matrix
 
 Todo ← ⍤"TODO: Fill in your solution"0
 

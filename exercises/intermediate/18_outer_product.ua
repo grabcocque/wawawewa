@@ -18,7 +18,7 @@
 # Hint 3: Use ⊞× to compute the outer product
 
 # Instructions:
-# Replace ___ with the correct Uiua code to compute the outer product
+# Replace Todo with the correct Uiua code to compute the outer product
 
 Todo ← ⍤"TODO: Fill in your solution"0
 

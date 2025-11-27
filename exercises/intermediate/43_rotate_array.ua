@@ -18,7 +18,7 @@
 # Hint 4: The pattern is simply ↻ since it already does what we need
 
 # Instructions:
-# Replace ___ with the correct Uiua code
+# Replace Todo with the correct Uiua code
 # Solution should be a function that takes rotation amount n and array
 
 Todo ← ⍤"TODO: Fill in your solution"0

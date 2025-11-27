@@ -18,7 +18,7 @@
 # Hint 4: Pattern uses ⊕∘ to group, then ≡⧻ to count each group's length
 
 # Instructions:
-# Replace ___ with the correct Uiua code
+# Replace Todo with the correct Uiua code
 # Solution takes an array of non-negative integers
 
 Todo ← ⍤"TODO: Fill in your solution"0

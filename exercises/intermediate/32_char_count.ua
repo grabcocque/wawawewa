@@ -16,7 +16,7 @@
 # Hint 3: Sum the boolean array with /+ to count the matches
 
 # Instructions:
-# Replace ___ with the correct Uiua code
+# Replace Todo with the correct Uiua code
 # The function should take a character and a string
 
 Todo ← ⍤"TODO: Fill in your solution"0

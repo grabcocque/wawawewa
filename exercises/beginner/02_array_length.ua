@@ -12,7 +12,7 @@
 # Expected: 4
 
 # Instructions:
-# Replace ___ with the correct Uiua glyph to get the array length
+# Replace Todo with the correct Uiua glyph to get the array length
 
 Todo ← ⍤"TODO: Fill in your solution"0
 

@@ -21,7 +21,7 @@
 # Hint 3: After forking, you have sum on top and length below - use ÷ to divide
 
 # Instructions:
-# Replace ___ with the correct Uiua code to calculate the mean
+# Replace Todo with the correct Uiua code to calculate the mean
 
 Todo ← ⍤"TODO: Fill in your solution"0
 

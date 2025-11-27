@@ -11,7 +11,7 @@
 # Expected: [7 7 7 7]
 
 # Instructions:
-# Replace ___ with the correct Uiua code to repeat an element n times
+# Replace Todo with the correct Uiua code to repeat an element n times
 
 Todo ← ⍤"TODO: Fill in your solution"0
 

@@ -12,7 +12,7 @@
 # Expected: [7 7]
 
 # Instructions:
-# Replace ___ with the correct Uiua code to duplicate the input
+# Replace Todo with the correct Uiua code to duplicate the input
 
 Todo ← ⍤"TODO: Fill in your solution"0
 
